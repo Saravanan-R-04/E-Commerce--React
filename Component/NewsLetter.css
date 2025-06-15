@@ -1,0 +1,31 @@
+.news-letter{
+    margin-top: 40px;
+    border-width: 2px;
+    border-color: black;
+    border-style: solid;
+    width: 1200px;
+    background-color: rgb(187, 184, 184);
+}
+input{
+    width: 400px;
+    height: 40px;
+    margin-top: 10px;
+    background-color: none;
+    border-width: 1px;
+    border-color: black;
+    border-style: solid;
+    border-radius: 100px;
+}
+.sub{
+    width: 100px;
+    border-radius: none;
+    background-color: black;
+    color: white;
+    height: 40px;
+    margin-left: -40px;
+    
+}
+.ge{
+    font-size: 45px;
+    margin-top:15px;
+}

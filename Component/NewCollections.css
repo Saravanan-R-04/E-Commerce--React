@@ -1,0 +1,13 @@
+.new-collection{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap:10px;
+    height: 90vh;
+}
+.collection-item{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    gap: 10px;
+    margin-top: 50px;
+}

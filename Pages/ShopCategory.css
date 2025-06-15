@@ -1,0 +1,33 @@
+.shopcategory-item{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    gap: 10px;
+    margin-left: 25px;
+}
+.span{
+   margin-left: 0px;
+}
+.shopcategory-sort{
+    margin-top: 35px;
+    margin-left: 1200px;
+    border-color: black;
+    border-width: 1px;
+    border-style: solid;
+    border-radius: 100px;
+    width: 125px;
+    height: 35px;
+    padding-left: 8px;
+    padding-top: 4px;
+}
+.banner{
+    margin-top: 40px;
+    margin-left: 190px;
+    width: 1300px;
+    height: 300px;
+}
+.shopcategory-indexSort{
+    margin-bottom: 20px;
+    margin-left: 30px;
+    margin-top: 30px;
+
+}
